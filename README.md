@@ -1,7 +1,7 @@
 <img src='https://semidotinfotech.com/web/images/frontend_banner.jpg' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Yahya Ammar</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyaammar-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yahyaammar-dev" /> </p>
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **Task Manager**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **REACT**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **REACT Stack**
 
 - 👨‍💻 All of my projects are available at [https://yahyaammar-dev.github.io./](https://yahyaammar-dev.github.io./)
 
-- 💬 Ask me about **React, Node, Mongo**
+- 💬 Ask me about **React, Material UI, TypeScript, GrapghQL**
 
 - 📫 How to reach me **yahyaammar4807@gmail.com**
 
