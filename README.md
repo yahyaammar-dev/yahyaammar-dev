@@ -7,21 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyaammar-dev" alt="yahyaammar-dev" /></a> </p>
 
-- 🔭 I’m currently working on **VisaTribe**
-
-- 🌱 I’m currently learning **REACT**
-
-- 🤝 I’m looking for help with **REACT Stack**
+- 🔭 I’m currently working on **FYP MANAGER**
 
 - 👨‍💻 All of my projects are available at [https://yahyaammar-dev.github.io./](https://yahyaammar-dev.github.io./)
 
-- 💬 Ask me about **React, Material UI, TypeScript, GrapghQL**
+- 💬 Ask me about **React, Material UI, TypeScript, GrapghQL, Docker, CICD and much more**
 
 - 📫 How to reach me **yahyaammar4807@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qSV8BP7rLqr1HJfYZItAWzuvloM-okbD/view?usp=sharing](https://drive.google.com/file/d/1qSV8BP7rLqr1HJfYZItAWzuvloM-okbD/view?usp=sharing)
 
-- ⚡ Fun fact **I am not funny at all...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
