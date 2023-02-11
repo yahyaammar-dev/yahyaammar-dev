@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **FYP MANAGER**
 
-- 👨‍💻 All of my projects are available at [https://yahyaammar-dev.github.io./](https://yahyaammar-dev.github.io./)
+
 
 - 💬 Ask me about **React, Material UI, TypeScript, GrapghQL, Docker, CICD and much more**
 
