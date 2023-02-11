@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **yahyaammar4807@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qSV8BP7rLqr1HJfYZItAWzuvloM-okbD/view?usp=sharing](https://drive.google.com/file/d/1qSV8BP7rLqr1HJfYZItAWzuvloM-okbD/view?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
