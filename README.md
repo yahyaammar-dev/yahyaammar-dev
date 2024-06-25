@@ -1,4 +1,4 @@
-<img src='[https://semidotinfotech.com/web/images/frontend_banner.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2F6-strategies-elevate-your-frontend-development-career-ritesh-kumar&psig=AOvVaw2j9ZeXqUqyytkZoiTItgyi&ust=1719374903805000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKj9gubw9YYDFQAAAAAdAAAAABBi)' alt="banner"></img>
+
 
 
 
